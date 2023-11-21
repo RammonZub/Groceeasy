@@ -94,11 +94,3 @@ Some data structures that we used in the algorithm are:
 - [ ] Improve optimized route and create a visual route for users
 
 
-# Credits
-The project was created by:
-- Anita Rull 
-- Nora Rosa
-- Sebastian Llobet 
-- Alberto Padilla
-- Ramon Zubiaga
-- Cristina Tuduri
